@@ -76,7 +76,7 @@ void autonomous() {}
 void opcontrol() {
 
 	while (true) {
-		setDriveMotors();
+		setDriveArcade();
 		setIntakeMotor();
 		setHangMotor();
 		setWings();

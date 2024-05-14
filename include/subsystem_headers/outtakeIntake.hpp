@@ -2,4 +2,4 @@
 
 void setOuttakeIntake(int power);
 
-void setRollerIntakeMotor();
+void setIntakeMotor();

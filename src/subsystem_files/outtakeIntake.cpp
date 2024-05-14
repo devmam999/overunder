@@ -28,5 +28,5 @@ void setIntakeMotor() {
             intakePower = 0;
         }
     }
-    setRollerIntake(intakePower);
+    setouttakeIntake(intakePower);
 }
